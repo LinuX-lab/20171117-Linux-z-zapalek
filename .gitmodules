@@ -1,3 +1,6 @@
 [submodule "kernel-src"]
 	path = kernel-src
 	url = https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/
+[submodule "busybox-src"]
+	path = busybox-src
+	url = git://busybox.net/busybox.git
