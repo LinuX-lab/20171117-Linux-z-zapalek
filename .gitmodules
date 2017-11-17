@@ -4,3 +4,6 @@
 [submodule "busybox-src"]
 	path = busybox-src
 	url = git://busybox.net/busybox.git
+[submodule "buildroot-src"]
+	path = buildroot-src
+	url = git://git.buildroot.net/buildroot
