@@ -2,3 +2,4 @@
 /kernel-out/
 /busybox-out/
 /busybox-bin/
+/.tmp*
